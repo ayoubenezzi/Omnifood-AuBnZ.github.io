@@ -1,5 +1,6 @@
 "🚀 Embark on a Journey of Web Development Mastery 🌐
 
+© Copyright by Jonas Schmedtmann. Used for learning
 Welcome to my web development playground! This GitHub repository is a testament to my dedication to learning and honing my skills in the world of web development. Through a blend of HTML, CSS, and JavaScript, I've brought to life a collection of projects that showcase my journey.
 
 🎯 Key Goals:
